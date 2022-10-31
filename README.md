@@ -1,0 +1,2 @@
+# LogHubber
+Minimal Log Aggregator
